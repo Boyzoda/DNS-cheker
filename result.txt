@@ -1,0 +1,153 @@
+NS records for citytaxi.tj and A zapis: 
+ ns9.ismtj.co 
+ ns10.ismtj.co
+185.200.240.65
+NS records for dehaiman.tj and A zapis: 
+ ns9.ismtj.co 
+ ns10.ismtj.co
+185.200.240.65
+NS records for didtt.tj and A zapis: 
+ ns9.ismtj.co 
+ ns10.ismtj.co
+89.223.100.117
+NS records for dna.tj and A zapis: 
+ ns9.ismtj.co 
+ ns10.ismtj.co
+185.200.240.65
+Error: dotr.tj - The resolution lifetime expired after 5.110 seconds: Server 193.111.11.2 UDP port 53 answered The DNS operation timed out.; Server 217.11.190.2 UDP port 53 answered The DNS operation timed out.; Server 192.168.42.129 UDP port 53 answered The DNS operation timed out.
+NS records for dstural.tj and A zapis: 
+ ns9.ismtj.co 
+ ns10.ismtj.co
+185.200.240.65
+NS records for e-contract.tj and A zapis: 
+ ns9.ismtj.co 
+ ns10.ismtj.co
+185.200.240.65
+NS records for khf.tj and A zapis: 
+ ns9.ismtj.co 
+ ns10.ismtj.co
+185.200.240.65
+NS records for kchs.tj and A zapis: 
+ ns9.ismtj.co 
+ ns10.ismtj.co
+185.200.240.65
+NS records for expertpc.tj and A zapis: 
+ ns9.ismtj.co 
+ ns10.ismtj.co
+185.200.240.65
+NS records for farhangfm.tj and A zapis: 
+ ns9.ismtj.co 
+ ns10.ismtj.co
+185.200.240.65
+NS records for flagman.tj and A zapis: 
+ ns9.ismtj.co 
+ ns10.ismtj.co
+185.200.240.65
+NS records for fortest.tj and A zapis: 
+ ns9.ismtj.co 
+ ns10.ismtj.co
+185.200.240.65
+NS records for hisargroup.tj and A zapis: 
+ ns9.ismtj.co 
+ ns10.ismtj.co
+185.200.240.65
+NS records for immunizatsia.tj and A zapis: 
+ ns5.gettj.net 
+ ns6.gettj.net
+62.109.6.106
+NS records for ingstroy.tj and A zapis: 
+ ns9.ismtj.co 
+ ns10.ismtj.co
+185.200.240.65
+NS records for instveterinari.tj and A zapis: 
+ ns9.ismtj.co 
+ ns10.ismtj.co
+185.200.240.65
+NS records for intaudit.org and A zapis:
+	ns1.example.com.
+	ns2.example.com.
+	185.200.240.65
+Error: istijet.com - The resolution lifetime expired after 5.113 seconds: Server 193.111.11.2 UDP port 53 answered The DNS operation timed out.; Server 217.11.190.2 UDP port 53 answered The DNS operation timed out.; Server 192.168.42.129 UDP port 53 answered The DNS operation timed out.
+NS records for istijet.com and A zapis:
+NS records for ips.tj and A zapis: 
+ ns9.ismtj.co 
+ ns10.ismtj.co
+185.200.240.65
+NS records for jazzfestival.tj and A zapis: 
+ ns9.ismtj.co 
+ ns10.ismtj.co
+185.200.240.65
+NS records for kasb.tj and A zapis: 
+ ns9.ismtj.co 
+ ns10.ismtj.co
+185.200.240.65
+NS records for khojaphone.tj and A zapis: 
+ ns9.ismtj.co 
+ ns10.ismtj.co
+185.200.240.65
+NS records for khorogkmk.tj and A zapis: 
+ ns9.ismtj.co 
+ ns10.ismtj.co
+185.137.235.2
+NS records for kohinur.tj and A zapis: 
+ ns9.ismtj.co 
+ ns10.ismtj.co
+185.200.240.65
+NS records for kpmt.tj and A zapis: 
+ ns9.ismtj.co 
+ ns10.ismtj.co
+62.109.6.106
+NS records for ktr.tj and A zapis: 
+ ns5.gettj.net 
+ ns6.gettj.net
+62.109.6.106
+NS records for kupi.tj and A zapis: 
+ ns9.ismtj.co 
+ ns10.ismtj.co
+185.200.240.65
+NS records for magnitmobile.tj and A zapis: 
+ ns9.ismtj.co 
+ ns10.ismtj.co
+185.200.240.65
+NS records for med-koll-vahdat.tj and A zapis: 
+ ns9.ismtj.co 
+ ns10.ismtj.co
+185.200.240.65
+NS records for memori.tj and A zapis: 
+ ns9.ismtj.co 
+ ns10.ismtj.co
+89.253.253.95
+NS records for milkdangara.tj and A zapis: 
+ ns9.ismtj.co 
+ ns10.ismtj.co
+185.200.240.65
+NS records for mixmobile.tj and A zapis: 
+ ns9.ismtj.co 
+ ns10.ismtj.co
+185.200.240.65
+NS records for monaaero.com and A zapis:
+	ns5.gettj.net.
+	ns6.gettj.net.
+	62.109.6.106
+NS records for tojikmetall.tj and A zapis: 
+ ns9.ismtj.co 
+ ns10.ismtj.co
+185.200.240.65
+NS records for totalservice.tj and A zapis: 
+ ns9.ismtj.co 
+ ns10.ismtj.co
+198.49.23.145
+198.185.159.145
+62.109.6.106
+NS records for tvt.tj and A zapis: 
+ ns1.get.tj 
+ ns2.get.tj
+62.109.6.106
+NS records for webstroke.tj and A zapis: 
+ ns9.ismtj.co 
+ ns10.ismtj.co
+185.200.240.65
+NS records for vot.tj and A zapis: 
+ ns9.ismtj.co 
+ ns10.ismtj.co
+185.200.240.65
